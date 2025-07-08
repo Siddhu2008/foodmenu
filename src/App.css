@@ -1,0 +1,27 @@
+.container{
+  
+  border: 1px solid black;
+}
+*{
+  margin: 10px;
+  padding: 0px;
+}
+input{
+  width: 90%;
+  margin: 5px;
+  padding: 5px;
+  font-size: 20px;
+}
+.itemName{
+  text-align: left;
+  font-size: 20px;
+}
+.button{
+float: right;
+}
+h3{
+  font-size: large;
+  color: red;
+  margin: 10px;
+  padding: 10px;
+}
